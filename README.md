@@ -20,6 +20,6 @@ To use these voices, you can follow these steps:
   - Training Status: `In Progress`
   - Description: This voice is inspired by my favorite narrator Michael Kramer. It has a deep and resonant tone.
 - `af_kate_reading`
-  - Similarity Score: `0.804`
+  - Similarity Score: `0.87`
   - Training Status: `In Progress`
   - Description: This voice is inspired by the soothing and clear voice of Kate Reading. It is ideal for audiobook narration.
